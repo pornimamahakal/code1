@@ -1,0 +1,88 @@
+JAVASCRIPT CODE :
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="code1.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>NOTICE OF INTENT TO RECORD PRICES 151/2020 - HEALTH</h1>
+
+        <div class="introduction">
+              <p><b>Publication Date :</b>02/02/2021</p>
+            
+			  <p><b>OBJECT :</b>Price Registration for a period of 12 months, for the purchase of galvanized clamps.</p>
+
+           
+              <p><b>Binding Date :</b>02/18/2021</p>
+        </div>
+
+        </br>
+		</br>
+
+        <table class="table table-bordered">
+            <tr>
+                <th>Title</th>
+                <th>Link</th>
+				<th>File</th>
+                <th>Date</th>
+
+            </tr>
+            <tr>
+                <td>Price Registration Intent Notice</td>
+                <td><a href="http://portal6.pbh.gov.br/dom/iniciaEdicao.do?method=DetalheArtigo&pk=1235349"><img src="ico_link_dom"></a></td>
+				<td><a href="https://prefeitura.pbh.gov.br/sites/default/files/imagens/%C3%8Dcones/nenhum-icon.png">nenhum</a></td>
+                <td>10/30/2020</td>
+           
+            </tr>
+            <tr>
+                <td>Bidding / Notice</td>
+                <td><a href="http://portal6.pbh.gov.br/dom/iniciaEdicao.do?method=DetalheArtigo&pk=1239614"><img src="ico_link_dom"></a></td>
+<td><a href="https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/saude/pe151.2020_editalfinal_0.pdf"><img src="ico_pdf_mini.jpg"></a></td>
+                <td>02/02/2021</td>
+            </tr>
+            <tr>
+                <td>link Banco do Brasil Identifier</td>
+         <td><a href="https://www.licitacoes-e.com.br/aop/consultar-detalhes-licitacao.aop?numeroLicitacao=852045&opcao=consultarDetalhesLicitacao"><img src="ico_link_dom"></a></td>
+				<td><a href="https://prefeitura.pbh.gov.br/sites/default/files/imagens/%C3%8Dcones/nenhum-icon.png">nenhum</a></td>
+                <td>02/02/2021</td>
+            </tr>
+            
+        </table>
+    </div>
+</body>
+</html>
+
+
+
+
+    CSS CODE:
+
+<style>
+body
+{
+	background-color:white;
+	
+}
+table
+{
+	width:70%;
+	height:50%;
+	border:solid;
+}
+th,td
+{
+	vertical-align:middle;
+	text-align:center;
+	padding:8px;
+	border-bottom:1px solid black
+}
+th
+{
+	background-color:gray;
+}
+</style>
+
